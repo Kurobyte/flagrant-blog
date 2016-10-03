@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Flagrant Blog</title>
+  <subtitle>Un lugar poco definido lleno de variado contenido.</subtitle>
+  <link href="/flagrant-blog/atom.xml" rel="self"/>
+  
+  <link href="https://kurobyte.github.io/"/>
+  <updated>2016-10-03T22:53:58.699Z</updated>
+  <id>https://kurobyte.github.io/</id>
+  
+  <author>
+    <name>Ivan M.</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Presentacio: Principis bàsics de la narració</title>
+    <link href="https://kurobyte.github.io/2016/10/03/principis-basics-de-la-narracio/"/>
+    <id>https://kurobyte.github.io/2016/10/03/principis-basics-de-la-narracio/</id>
+    <published>2016-10-03T08:33:41.000Z</published>
+    <updated>2016-10-03T22:53:58.699Z</updated>
+    
+    <content type="html"><![CDATA[<p>Presentació del segon tema, principis bàsics de la narració.<br><a id="more"></a></p>
+<img src="/flagrant-blog/2016/10/03/principis-basics-de-la-narracio/principis-de-la-narracio.png" alt="imatge de la portada" title="imatge de la portada">
+<p>Fes <a href="/flagrant-blog/presentacions/segona.html">click aquí</a> per veure la presentació.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Presentació del segon tema, principis bàsics de la narració.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Presentaciones" scheme="https://kurobyte.github.io/categories/Presentaciones/"/>
+    
+    
+      <category term="narració" scheme="https://kurobyte.github.io/tags/narracio/"/>
+    
+      <category term="narrativa dels videojocs" scheme="https://kurobyte.github.io/tags/narrativa-dels-videojocs/"/>
+    
+      <category term="tipus de jugadors" scheme="https://kurobyte.github.io/tags/tipus-de-jugadors/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>¡Saludos mundo!</title>
+    <link href="https://kurobyte.github.io/2016/10/02/hello-world/"/>
+    <id>https://kurobyte.github.io/2016/10/02/hello-world/</id>
+    <published>2016-10-01T22:00:00.000Z</published>
+    <updated>2016-10-03T22:21:30.696Z</updated>
+    
+    <content type="html"><![CDATA[<p>Aquí empiezan las aventuras de <code>Flagrant blog</code>, el blog que espero poder poblar de contenido con cierta regularidad.</p>
+<a id="more"></a>
+<p>Si me preguntasen que tipo de contenido va a haber pues diría que… Será un poti poti de lo más peculiar. <em>Es mi blog y me lo f… organizo como quiero…</em></p>
+<p>Así pues no alarguemos más esta presentación, ¡Hasta muy pronto!</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Aquí empiezan las aventuras de &lt;code&gt;Flagrant blog&lt;/code&gt;, el blog que espero poder poblar de contenido con cierta regularidad.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Articulos" scheme="https://kurobyte.github.io/categories/Articulos/"/>
+    
+    
+      <category term="Flagrant Blog" scheme="https://kurobyte.github.io/tags/Flagrant-Blog/"/>
+    
+  </entry>
+  
+</feed>
