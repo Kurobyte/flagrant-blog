@@ -5,7 +5,7 @@
   <link href="/flagrant-blog/atom.xml" rel="self"/>
   
   <link href="https://kurobyte.github.io/"/>
-  <updated>2016-10-14T22:09:22.798Z</updated>
+  <updated>2016-10-17T09:45:30.233Z</updated>
   <id>https://kurobyte.github.io/</id>
   
   <author>
@@ -14,6 +14,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Presentacio: Generes narratius del vídeojoc</title>
+    <link href="https://kurobyte.github.io/2016/10/17/generes-narratius-del-videojoc/"/>
+    <id>https://kurobyte.github.io/2016/10/17/generes-narratius-del-videojoc/</id>
+    <published>2016-10-17T09:35:48.000Z</published>
+    <updated>2016-10-17T09:45:30.233Z</updated>
+    
+    <content type="html"><![CDATA[<p>Presentació del cuart tema, generes narratius del vídeojoc.<br><a id="more"></a></p>
+<img src="/flagrant-blog/2016/10/17/generes-narratius-del-videojoc/generes-narratius-videojoc.png" alt="imatge de la portada" title="imatge de la portada">
+<p>Fes <a href="/flagrant-blog/presentacions/cuarta.html">click aquí</a> per veure la presentació.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Presentació del cuart tema, generes narratius del vídeojoc.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Presentaciones" scheme="https://kurobyte.github.io/categories/Presentaciones/"/>
+    
+    
+      <category term="narrativa dels videojocs" scheme="https://kurobyte.github.io/tags/narrativa-dels-videojocs/"/>
+    
+      <category term="generes narratius" scheme="https://kurobyte.github.io/tags/generes-narratius/"/>
+    
+      <category term="narració" scheme="https://kurobyte.github.io/tags/narracio/"/>
+    
+  </entry>
   
   <entry>
     <title>Yuri!!! on Ice - primeras impresiones</title>
@@ -216,9 +245,9 @@
       <category term="Presentaciones" scheme="https://kurobyte.github.io/categories/Presentaciones/"/>
     
     
-      <category term="narració" scheme="https://kurobyte.github.io/tags/narracio/"/>
-    
       <category term="narrativa dels videojocs" scheme="https://kurobyte.github.io/tags/narrativa-dels-videojocs/"/>
+    
+      <category term="narració" scheme="https://kurobyte.github.io/tags/narracio/"/>
     
       <category term="tipus de jugadors" scheme="https://kurobyte.github.io/tags/tipus-de-jugadors/"/>
     
