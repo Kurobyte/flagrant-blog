@@ -5,7 +5,7 @@
   <link href="/flagrant-blog/atom.xml" rel="self"/>
   
   <link href="https://kurobyte.github.io/"/>
-  <updated>2016-10-23T13:54:22.511Z</updated>
+  <updated>2016-11-09T22:26:53.623Z</updated>
   <id>https://kurobyte.github.io/</id>
   
   <author>
@@ -14,6 +14,285 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Practica: Guion cinematografico</title>
+    <link href="https://kurobyte.github.io/2016/11/08/guion-cinematografico/"/>
+    <id>https://kurobyte.github.io/2016/11/08/guion-cinematografico/</id>
+    <published>2016-11-08T12:00:00.000Z</published>
+    <updated>2016-11-09T22:26:53.623Z</updated>
+    
+    <content type="html"><![CDATA[<p>Guión cinematigrafico del prologo de la <a href="/flagrant-blog/2016/10/27/historia/">historia que escribí hace unas semanas</a>.</p>
+<a id="more"></a>
+<hr>
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center">SEQº</th>
+<th style="text-align:left">Descripción</th>
+<th style="text-align:left">Imagen</th>
+<th style="text-align:left">Sonido</th>
+<th style="text-align:center">Duración</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">1</td>
+<td style="text-align:left">Escena de un cielo visto desde un campamento romano</td>
+<td style="text-align:left">Gran plano general con angulo contrapicado, el plano se mueve para divisar todo el horizonte</td>
+<td style="text-align:left">Viento leve y sonido de armadura repiqueteando</td>
+<td style="text-align:center">10s</td>
+</tr>
+<tr>
+<td style="text-align:center">2</td>
+<td style="text-align:left">La cámara se mueve hasta enfocar una tienda del campamento.</td>
+<td style="text-align:left">Pasa de un gran plano general a plano general y el angulo es normal.</td>
+<td style="text-align:left">se oye el viento mover las telas de las tiendas</td>
+<td style="text-align:center">5s</td>
+</tr>
+<tr>
+<td style="text-align:center">3</td>
+<td style="text-align:left">Se acerca a la tienda</td>
+<td style="text-align:left">transición de plano general a plano medio</td>
+<td style="text-align:left">igual que el anterior</td>
+<td style="text-align:center">3s</td>
+</tr>
+<tr>
+<td style="text-align:center">4</td>
+<td style="text-align:left">Entra en la tienda y enfoca a Seius que está de pie en el interior de la tienda mirando a su izquierda</td>
+<td style="text-align:left">Pasa a un angulo contrapicado y asciende la cámara hasta llegar a un primer plano de la cara</td>
+<td style="text-align:left">Voz en off explicando el pasado/quien es Seius</td>
+<td style="text-align:center">10s</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">SEQº</th>
+<th style="text-align:left">Descripción</th>
+<th style="text-align:left">Imagen</th>
+<th style="text-align:left">Sonido</th>
+<th style="text-align:center">Duración</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">1</td>
+<td style="text-align:left">Seius hablando en voz baja</td>
+<td style="text-align:left">plano americano</td>
+<td style="text-align:left">ruido de armaduras y gente hablando a lo lejos</td>
+<td style="text-align:center">10s</td>
+</tr>
+<tr>
+<td style="text-align:center">2</td>
+<td style="text-align:left">Entran torpemente dos soldados en la tienda</td>
+<td style="text-align:left">Plano americano de los soldados</td>
+<td style="text-align:left">Ruido de armaduras y pasos</td>
+<td style="text-align:center">5s</td>
+</tr>
+<tr>
+<td style="text-align:center">3</td>
+<td style="text-align:left">Los soldados mal heridos se ponen delante de seius, traen un mensaje</td>
+<td style="text-align:left">Angulo picado desde la espalda de Seius enfocando a donde se encuentran los soldados</td>
+<td style="text-align:left">Conversación y ruidos de armaduras</td>
+<td style="text-align:center">3s</td>
+</tr>
+<tr>
+<td style="text-align:center">4</td>
+<td style="text-align:left">Uno de los dos soldados dice el mensaje y todo queda en silencio</td>
+<td style="text-align:left">Gran plano del interior de la tienda con angulo contrapicado.</td>
+<td style="text-align:left">Un soldado hablando y un largo silencio de suspense</td>
+<td style="text-align:center">5s</td>
+</tr>
+<tr>
+<td style="text-align:center">5</td>
+<td style="text-align:left">Seius se da la vuelta y los soldados se van a que les traten las heridas.</td>
+<td style="text-align:left">Se mantiene el plano</td>
+<td style="text-align:left">El silencio consume la estancia</td>
+<td style="text-align:center">2s</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">SEQº</th>
+<th style="text-align:left">Descripción</th>
+<th style="text-align:left">Imagen</th>
+<th style="text-align:left">Sonido</th>
+<th style="text-align:center">Duración</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">1</td>
+<td style="text-align:left">Aparece una figura misteriosa a la espalda de Seius</td>
+<td style="text-align:left">Primer plano de la cara de Seius moviéndose hacia la derecha haciendo que la misteriosa figura aparezca con la transición</td>
+<td style="text-align:left">Silencio</td>
+<td style="text-align:center">5s</td>
+</tr>
+<tr>
+<td style="text-align:center">2</td>
+<td style="text-align:left">La misteriosa figura habla a las espaldas de Seius y este se gira</td>
+<td style="text-align:left">Plano americano de los dos personajes con un angulo contrapicado.</td>
+<td style="text-align:left">Solo voces</td>
+<td style="text-align:center">5s</td>
+</tr>
+<tr>
+<td style="text-align:center">3</td>
+<td style="text-align:left">Seius analiza la misteriosa figura con la mirada</td>
+<td style="text-align:left">Plano de detalle y Primer plano de la misteriosa figura</td>
+<td style="text-align:left">silencio</td>
+<td style="text-align:center">3s</td>
+</tr>
+<tr>
+<td style="text-align:center">4</td>
+<td style="text-align:left">La figura prosigue hablando</td>
+<td style="text-align:left">Plano medio largo de la figura</td>
+<td style="text-align:left">La voz de la figura</td>
+<td style="text-align:center">10s</td>
+</tr>
+<tr>
+<td style="text-align:center">5</td>
+<td style="text-align:left">Seius replica con fuerza las declaraciones de la misteriosa figura</td>
+<td style="text-align:left">Plano entero</td>
+<td style="text-align:left">Seius gritando y de repente silencio</td>
+<td style="text-align:center">3s</td>
+</tr>
+<tr>
+<td style="text-align:center">6</td>
+<td style="text-align:left">La misteriosa figura sigue hablando</td>
+<td style="text-align:left">Primer plano de la cara de la figura</td>
+<td style="text-align:left">Sigue hablando</td>
+<td style="text-align:center">5s</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">SEQº</th>
+<th style="text-align:left">Descripción</th>
+<th style="text-align:left">Imagen</th>
+<th style="text-align:left">Sonido</th>
+<th style="text-align:center">Duración</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">1</td>
+<td style="text-align:left">Seius pierde la fuerza de las piernas y cae a su silla</td>
+<td style="text-align:left">Plano entero con angulo picado</td>
+<td style="text-align:left">Ruido de la armadura de Seius</td>
+<td style="text-align:center">2s</td>
+</tr>
+<tr>
+<td style="text-align:center">2</td>
+<td style="text-align:left">Seius se lamenta sentado en su silla</td>
+<td style="text-align:left">Plano medio corto de la cara de seius con angulo normal visto desde el lado izquierdo</td>
+<td style="text-align:left">La voz entrecortada de Seius</td>
+<td style="text-align:center">3s</td>
+</tr>
+<tr>
+<td style="text-align:center">3</td>
+<td style="text-align:left">La misteriosa figura interrumpe a Seius</td>
+<td style="text-align:left">Plano de detalle de los labios de la misteriosa figura</td>
+<td style="text-align:left">la voz de la misteriosa figura</td>
+<td style="text-align:center">3s</td>
+</tr>
+<tr>
+<td style="text-align:center">4</td>
+<td style="text-align:left">Seius y el encapuchado tienen una conversación</td>
+<td style="text-align:left">Plano americano angulo normal visto desde la izquierda</td>
+<td style="text-align:left">La conversación</td>
+<td style="text-align:center">5s</td>
+</tr>
+<tr>
+<td style="text-align:center">5</td>
+<td style="text-align:left">Seius se levanta y estrecha la mano que le había tendido el encapuchado</td>
+<td style="text-align:left">Plano americano de seius levantándose y plano de detalle de las manos</td>
+<td style="text-align:left">Ruido de la armadura de Seius y conversación</td>
+<td style="text-align:center">5s</td>
+</tr>
+<tr>
+<td style="text-align:center">6</td>
+<td style="text-align:left">Seius le pregunta al encapuchado que tienen que hacer ahora</td>
+<td style="text-align:left">Plano medio de Seius y el encapuchado</td>
+<td style="text-align:left">Conversación</td>
+<td style="text-align:center">5s</td>
+</tr>
+<tr>
+<td style="text-align:center">7</td>
+<td style="text-align:left">El encapuchado revela lo que tienen que hacer para ganar la batalla haciendo una pequeña pausa en cada una de sus palabras</td>
+<td style="text-align:left">Transición de plano americano donde se ve el encapuchado y seius a un primer plano del encapuchado</td>
+<td style="text-align:left">Conversación acompañado de una aguda música para dar suspense</td>
+<td style="text-align:center">5s</td>
+</tr>
+<tr>
+<td style="text-align:center">8</td>
+<td style="text-align:left">Las dos figuras están inmóviles</td>
+<td style="text-align:left">Plano general con angulo picado y con fundido a negro</td>
+<td style="text-align:left">silencio</td>
+<td style="text-align:center">5s</td>
+</tr>
+</tbody>
+</table>
+<p>– Fin del prologo –</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Guión cinematigrafico del prologo de la &lt;a href=&quot;/flagrant-blog/2016/10/27/historia/&quot;&gt;historia que escribí hace unas semanas&lt;/a&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Practiques" scheme="https://kurobyte.github.io/categories/Practiques/"/>
+    
+    
+      <category term="narració" scheme="https://kurobyte.github.io/tags/narracio/"/>
+    
+      <category term="Guion cinematografico" scheme="https://kurobyte.github.io/tags/Guion-cinematografico/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Practica: Serious Game - Hacked</title>
+    <link href="https://kurobyte.github.io/2016/11/07/serious-game/"/>
+    <id>https://kurobyte.github.io/2016/11/07/serious-game/</id>
+    <published>2016-11-07T10:00:00.000Z</published>
+    <updated>2016-11-09T22:59:31.045Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hacked un juego para dispositivos android repleto de retos de programación los cuales tenemos que resolver.</p>
+<a id="more"></a>
+<p>Hacked es un juego gratuito que puede descargarse en <a href="https://play.google.com/store/apps/details?id=com.hackedapp" target="_blank" rel="external">Google Play</a>. Es un juego que podemos considerarlo <em>serious game</em> dado que presenta una serie de retos que ayudan a mejorar las capacidades del jugador, como el pensamiento lógico y “<em>habilidad de programación</em>“, eso sí, es un juego que no es nada recomendable para alguien que no sabe programación o que está empezando, dado que los retos que presenta el juego quizás sean un poco complejos de seguir.</p>
+<div class="video-container"><iframe src="//www.youtube.com/embed/OH40Gs7C1x4" frameborder="0" allowfullscreen></iframe></div>
+<p style="font-size: 0.6em; margin-top: -3em;">Trailer del juego.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Hacked un juego para dispositivos android repleto de retos de programación los cuales tenemos que resolver.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Practiques" scheme="https://kurobyte.github.io/categories/Practiques/"/>
+    
+    
+      <category term="Serious Game" scheme="https://kurobyte.github.io/tags/Serious-Game/"/>
+    
+      <category term="Google Play" scheme="https://kurobyte.github.io/tags/Google-Play/"/>
+    
+      <category term="Programación" scheme="https://kurobyte.github.io/tags/Programacion/"/>
+    
+      <category term="Juego" scheme="https://kurobyte.github.io/tags/Juego/"/>
+    
+      <category term="Hacked app" scheme="https://kurobyte.github.io/tags/Hacked-app/"/>
+    
+      <category term="Android" scheme="https://kurobyte.github.io/tags/Android/"/>
+    
+  </entry>
   
   <entry>
     <title>Nintendo Switch, i el apocalipsis que prediuen alguns</title>
