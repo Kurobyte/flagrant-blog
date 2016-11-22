@@ -5,7 +5,7 @@
   <link href="/flagrant-blog/atom.xml" rel="self"/>
   
   <link href="https://kurobyte.github.io/"/>
-  <updated>2016-11-09T23:23:08.660Z</updated>
+  <updated>2016-11-22T23:49:27.751Z</updated>
   <id>https://kurobyte.github.io/</id>
   
   <author>
@@ -14,6 +14,85 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Practica: Serious games nacionals</title>
+    <link href="https://kurobyte.github.io/2016/11/21/mobile-serious-game/"/>
+    <id>https://kurobyte.github.io/2016/11/21/mobile-serious-game/</id>
+    <published>2016-11-21T10:00:00.000Z</published>
+    <updated>2016-11-22T23:49:27.751Z</updated>
+    
+    <content type="html"><![CDATA[<p>Presentacio realitzada a classe sobre empreses de serious game.<br>La presentacio ha estat realitzada per Ainhoa Zaldua, Aleix Rius e Ivan Morales</p>
+<a id="more"></a>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRzgceU9019LfPu6XnMfHDWp4OIZzoADMxZMukAxcShUn19jvbNlPN6FYFV546Gyy7dWx9GcuHAeISX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Presentacio realitzada a classe sobre empreses de serious game.&lt;br&gt;La presentacio ha estat realitzada per Ainhoa Zaldua, Aleix Rius e Ivan Morales&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Practiques" scheme="https://kurobyte.github.io/categories/Practiques/"/>
+    
+    
+      <category term="Serious Game" scheme="https://kurobyte.github.io/tags/Serious-Game/"/>
+    
+      <category term="Google Play" scheme="https://kurobyte.github.io/tags/Google-Play/"/>
+    
+      <category term="Android" scheme="https://kurobyte.github.io/tags/Android/"/>
+    
+      <category term="Juegos" scheme="https://kurobyte.github.io/tags/Juegos/"/>
+    
+      <category term="Presentacio" scheme="https://kurobyte.github.io/tags/Presentacio/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Practica: Advergaming</title>
+    <link href="https://kurobyte.github.io/2016/11/19/practica-advertgaming/"/>
+    <id>https://kurobyte.github.io/2016/11/19/practica-advertgaming/</id>
+    <published>2016-11-19T16:35:46.000Z</published>
+    <updated>2016-11-19T18:45:15.416Z</updated>
+    
+    <content type="html"><![CDATA[<p>Aquí tenim tres exemples de jocs que utilitzen el <em>Advergaming</em> per a la promoció de productes.</p>
+<a id="more"></a>
+<h1 id="Darkened-Skye"><a href="#Darkened-Skye" class="headerlink" title="Darkened Skye"></a>Darkened Skye</h1><div class="figure " style="width:;"><img class="fig-img" src="DARKSKYE4.jpg" alt="Imatge del joc"><span class="caption">Imatge del joc</span></div>
+<p>Es tracta de un joc de rol i aventura que va sortir a la venta per la videoconsola Nintendo Gamecube. El joc conté uns “<em>misteriosos</em>“ objectes que resulten ser <strong>caramels Skittle</strong>, aquests objectes s’utilitzen per millorar les característiques del personatge apart de tenir un pes indirectament important a la historia.<br>Com a curiositat: Quan el joc anava a ser posat a la venta es va demanar als desenvolupadors que eliminessin la marca <strong>Skittle</strong> del joc. Però com que estava tan arriagada al joc com la historia la van acabar per deixar.</p>
+<div class="video-container"><iframe src="//www.youtube.com/embed/RGZav-tPR7g" frameborder="0" allowfullscreen></iframe></div>
+<p style="font-size: 0.6em; margin-top: -3em;">Trailer del joc.</p>
+
+<hr>
+
+<h1 id="Splinter-Cell-Chaos-Theory"><a href="#Splinter-Cell-Chaos-Theory" class="headerlink" title="Splinter Cell: Chaos Theory"></a>Splinter Cell: Chaos Theory</h1><p>En el joc Splinter Cell van intentar donar realisme als escenaris de la ciutat posant publicitat per tot arreu.<br><div class="figure " style="width:;"><img class="fig-img" src="SplinterCellChaosTheoryAxeAd.jpg" alt=""></div></p>
+<hr>
+
+<h1 id="Pepsiman"><a href="#Pepsiman" class="headerlink" title="Pepsiman"></a>Pepsiman</h1><div class="figure " style="width:;"><img class="fig-img" src="cm_pepsiman.jpg" alt=""></div>
+<p>El advergaming per excel·lència per lo sutil i merda que arriba a ser el joc. Pepsiman era la mascota de la marca Pepsi la qual va tenir aquest joc en el qual corria per els carrers recollint pepsis per portar-les fins una maquina expenedora de pepsis i fer feliços als nens que ploraven desconsolats perquè no podien veure una pepsi.<br><div class="video-container"><iframe src="//www.youtube.com/embed/DKHPxpNZ8_s" frameborder="0" allowfullscreen></iframe></div></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Aquí tenim tres exemples de jocs que utilitzen el &lt;em&gt;Advergaming&lt;/em&gt; per a la promoció de productes.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Practiques" scheme="https://kurobyte.github.io/categories/Practiques/"/>
+    
+    
+      <category term="Advergaming" scheme="https://kurobyte.github.io/tags/Advergaming/"/>
+    
+      <category term="Pepsiman" scheme="https://kurobyte.github.io/tags/Pepsiman/"/>
+    
+      <category term="Skittle" scheme="https://kurobyte.github.io/tags/Skittle/"/>
+    
+      <category term="Darkened Skye" scheme="https://kurobyte.github.io/tags/Darkened-Skye/"/>
+    
+      <category term="Splinter Cell" scheme="https://kurobyte.github.io/tags/Splinter-Cell/"/>
+    
+      <category term="Publicitat" scheme="https://kurobyte.github.io/tags/Publicitat/"/>
+    
+  </entry>
   
   <entry>
     <title>Practica: Guion cinematografico</title>
@@ -284,13 +363,13 @@
     
       <category term="Google Play" scheme="https://kurobyte.github.io/tags/Google-Play/"/>
     
-      <category term="Programación" scheme="https://kurobyte.github.io/tags/Programacion/"/>
-    
       <category term="Juego" scheme="https://kurobyte.github.io/tags/Juego/"/>
     
-      <category term="Hacked app" scheme="https://kurobyte.github.io/tags/Hacked-app/"/>
-    
       <category term="Android" scheme="https://kurobyte.github.io/tags/Android/"/>
+    
+      <category term="Programación" scheme="https://kurobyte.github.io/tags/Programacion/"/>
+    
+      <category term="Hacked app" scheme="https://kurobyte.github.io/tags/Hacked-app/"/>
     
   </entry>
   
