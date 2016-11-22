@@ -5,7 +5,7 @@
   <link href="/flagrant-blog/atom.xml" rel="self"/>
   
   <link href="https://kurobyte.github.io/"/>
-  <updated>2016-11-22T23:49:27.751Z</updated>
+  <updated>2016-11-22T23:56:24.370Z</updated>
   <id>https://kurobyte.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://kurobyte.github.io/2016/11/21/mobile-serious-game/"/>
     <id>https://kurobyte.github.io/2016/11/21/mobile-serious-game/</id>
     <published>2016-11-21T10:00:00.000Z</published>
-    <updated>2016-11-22T23:49:27.751Z</updated>
+    <updated>2016-11-22T23:56:24.370Z</updated>
     
     <content type="html"><![CDATA[<p>Presentacio realitzada a classe sobre empreses de serious game.<br>La presentacio ha estat realitzada per Ainhoa Zaldua, Aleix Rius e Ivan Morales</p>
 <a id="more"></a>
@@ -40,11 +40,11 @@
     
       <category term="Google Play" scheme="https://kurobyte.github.io/tags/Google-Play/"/>
     
-      <category term="Android" scheme="https://kurobyte.github.io/tags/Android/"/>
-    
       <category term="Juegos" scheme="https://kurobyte.github.io/tags/Juegos/"/>
     
       <category term="Presentacio" scheme="https://kurobyte.github.io/tags/Presentacio/"/>
+    
+      <category term="Android" scheme="https://kurobyte.github.io/tags/Android/"/>
     
   </entry>
   
@@ -363,11 +363,11 @@
     
       <category term="Google Play" scheme="https://kurobyte.github.io/tags/Google-Play/"/>
     
-      <category term="Juego" scheme="https://kurobyte.github.io/tags/Juego/"/>
-    
       <category term="Android" scheme="https://kurobyte.github.io/tags/Android/"/>
     
       <category term="Programación" scheme="https://kurobyte.github.io/tags/Programacion/"/>
+    
+      <category term="Juego" scheme="https://kurobyte.github.io/tags/Juego/"/>
     
       <category term="Hacked app" scheme="https://kurobyte.github.io/tags/Hacked-app/"/>
     
