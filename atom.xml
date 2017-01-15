@@ -5,7 +5,7 @@
   <link href="/flagrant-blog/atom.xml" rel="self"/>
   
   <link href="https://kurobyte.github.io/"/>
-  <updated>2016-12-01T22:23:51.556Z</updated>
+  <updated>2017-01-15T18:27:29.109Z</updated>
   <id>https://kurobyte.github.io/</id>
   
   <author>
@@ -14,6 +14,161 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Presentacio: Teoría de la diversio</title>
+    <link href="https://kurobyte.github.io/2017/01/10/teoria-de-la-diversio/"/>
+    <id>https://kurobyte.github.io/2017/01/10/teoria-de-la-diversio/</id>
+    <published>2017-01-10T13:00:00.000Z</published>
+    <updated>2017-01-15T18:27:29.109Z</updated>
+    
+    <content type="html"><![CDATA[<p>Presentació del primer tema, Teoria de la diversio.<br><a id="more"></a></p>
+<img src="/flagrant-blog/2017/01/10/teoria-de-la-diversio/teoria-de-la-diversio.png" alt="imatge de la portada" title="imatge de la portada">
+<p>Fes <a href="/flagrant-blog/presentacions/primera.html">click aquí</a> per veure la presentació.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Presentació del primer tema, Teoria de la diversio.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Presentaciones" scheme="https://kurobyte.github.io/categories/Presentaciones/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>[Practica] Piper</title>
+    <link href="https://kurobyte.github.io/2017/01/10/pixar-piper/"/>
+    <id>https://kurobyte.github.io/2017/01/10/pixar-piper/</id>
+    <published>2017-01-10T12:00:00.000Z</published>
+    <updated>2017-01-15T17:53:03.559Z</updated>
+    
+    <content type="html"><![CDATA[<p>En aquest curt animat per Disney Pixar podem veure com una petita cria de gaviota descobreix com caçar menjar despres de passarles canutes.</p>
+<a id="more"></a>
+<div class="video-container"><iframe src="//www.youtube.com/embed/loxXZcB1IXU" frameborder="0" allowfullscreen></iframe></div>
+<p style="font-size: 0.6em; margin-top: -3em;">Piper - Curt animat de Disney Pixar.</p>
+
+<p>Petit analisi de una sequencia:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Escenaº</th>
+<th style="text-align:left">Imagen</th>
+<th style="text-align:left">Sonido</th>
+<th style="text-align:center">Duración</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">1</td>
+<td style="text-align:left">Pla general de la vora de la platja</td>
+<td style="text-align:left">So del oleatje</td>
+<td style="text-align:center">8s</td>
+</tr>
+<tr>
+<td style="text-align:center">2</td>
+<td style="text-align:left">Pla general on es veu un ocell al fons, el pla te una transició per enfocar el que hi ha mes aprop</td>
+<td style="text-align:left">So del oleatje</td>
+<td style="text-align:center">9s</td>
+</tr>
+<tr>
+<td style="text-align:center">3</td>
+<td style="text-align:left">Pla general de petites gaviotes que s’acosten a la vora de la platja mentre l’aigua es retira</td>
+<td style="text-align:left">So del oleatje</td>
+<td style="text-align:center">5s</td>
+</tr>
+<tr>
+<td style="text-align:center">4</td>
+<td style="text-align:left">Pla general de la vora de la platja amb angle picat. La camara es va moguent per podertenir enfocades les gaviotes al pla</td>
+<td style="text-align:left">So del oleatje</td>
+<td style="text-align:center">6s</td>
+</tr>
+<tr>
+<td style="text-align:center">5</td>
+<td style="text-align:left">La escena anterior segueix les gaviotes amb un moviment de camara lateral cap a la esquerra. Fent un canvi de pla general a gran pla general</td>
+<td style="text-align:left">So del oleatje</td>
+<td style="text-align:center">5s</td>
+</tr>
+<tr>
+<td style="text-align:center">6</td>
+<td style="text-align:left">Pla mig de la mare gaviota que es desperta</td>
+<td style="text-align:left">So del oleatje de fons</td>
+<td style="text-align:center">8s</td>
+</tr>
+<tr>
+<td style="text-align:center">7</td>
+<td style="text-align:left">Primer pla a la cria</td>
+<td style="text-align:left">So del oleatje i el piar de les gaviotes</td>
+<td style="text-align:center">6s</td>
+</tr>
+<tr>
+<td style="text-align:center">8</td>
+<td style="text-align:left">Primer pla enfocat desde darrera de la cria i mirant cap a la platja de fons</td>
+<td style="text-align:left">So del oleatje i el piar de les gaviotes</td>
+<td style="text-align:center">4s</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;En aquest curt animat per Disney Pixar podem veure com una petita cria de gaviota descobreix com caçar menjar despres de passarles canutes.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Practiques" scheme="https://kurobyte.github.io/categories/Practiques/"/>
+    
+    
+      <category term="Piper" scheme="https://kurobyte.github.io/tags/Piper/"/>
+    
+      <category term="Disney Pixar" scheme="https://kurobyte.github.io/tags/Disney-Pixar/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[Practica] Branching Path Stories</title>
+    <link href="https://kurobyte.github.io/2016/12/05/branching-path-stories-VN/"/>
+    <id>https://kurobyte.github.io/2016/12/05/branching-path-stories-VN/</id>
+    <published>2016-12-05T11:33:34.000Z</published>
+    <updated>2017-01-14T19:17:19.196Z</updated>
+    
+    <content type="html"><![CDATA[<p>Cap <strong>a final dels anys 70 van començar a comercialitzarse una serie de llibres diferents</strong> dels que s’havien comercialitzat fins aquell moment, <strong>eren llibres “Choose your own path”, escull la teva propia historia</strong>. Aquests llibres van tenir una repercusió butal, perque era una historia diferent era una historia la cual tu(el lector) escollies com la volies, podent decidir les accions del personatge principal de la historia i sentinte part d’ella amb les eleccions.</p>
+<a id="more"></a>
+<img src="/flagrant-blog/2016/12/05/branching-path-stories-VN/own-adventure.jpg" alt="own-adventure.jpg" title="">
+<p>Aquests llibres tot i ser un exit tenien un problema, i era que les histories que es podien desenvolupar eren molt minses, carents de profunditat i desenvolupament de personatges. Aixo era degut que al donar la opció de varis camins, la historia ocupaba pagines que podíen haver sigut utilizades en donar mes profunditat a la historia o a millorar el trasfons dels personatges.</p>
+<h3 id="Camins-Que-ara-s’esvaeixen"><a href="#Camins-Que-ara-s’esvaeixen" class="headerlink" title="Camins(Que ara s’esvaeixen~)"></a>Camins(Que ara s’esvaeixen~)</h3><p>A les histories de multiples camins tenim tres tipus de camins, “<strong>Minims</strong>“, “<strong>Moderats</strong>“ i “<strong>Majors</strong>“.<br>Els camins minims son aquells que <strong>s’acaben ajuntant a la historia al cap de poc temps</strong>.<br>Els camins moderats <strong>son com els camins minims acaben ajuntantse de nou al cami principal prevenint que acabin tinguent un impacte “important”</strong> a la historia.<br>I els camins majors. <strong>Tan els camins minims i majors van fent petites modificacions al cami major fins que acaben afectant creant una desviació del cami principal</strong> “<em>cap una altre ruta</em>“.</p>
+<p>Aquests canvis es fan a través de conversacions amb el personatge principal fent-li decidir petites eleccions que afectarán a la historia. Es molt dificil discernir quines son les eleccions petites de les importants, ja que pot ser la eleccio mes absurda pot generar un gran canvi en el transcurs de la historia.</p>
+<h3 id="Visual-Novels"><a href="#Visual-Novels" class="headerlink" title="Visual Novels"></a>Visual Novels</h3><p><strong>Les Visual Novels son un tipus de “<em>joc-novela</em>“ originaria de Japo</strong> que ve a simular lo que els llibres “<em>Escull el teu cami</em>“ feien. Pero es un concepte mes avançat ja que <strong>reforçen la narracio de la historia amb imatges, banda sonora, efectes de só, veus, fent que la experiencia de la narració sigui molt mes dinamica</strong>. Apart si els llibres pecaven de un pobre desenvolupament dels personatges, unes histories simples i bastant previsibles les Visual Novel exploten totes les possibilitats donant un bon desenvolupament e histories amb cos i ulls. </p>
+<div class="video-container"><iframe src="//www.youtube.com/embed/f184GruHq9o" frameborder="0" allowfullscreen></iframe></div>
+<p style="font-size: 0.6em; margin-top: -3em;">Cinematica inicial de la visual novel Umineko no naku koro ni.</p>
+
+<p>Actualment les Visual Novels son una part important de la cultura pop Japonesa, tant que en el 2006, el 70% Dels jocs que es van publicar a Japo van ser Visual Novels.</p>
+<p>Avans de que les VN fosin el fenomen que son ara, eren desenvolupats per joves japonesos podriem dir que eren “<em>desenvolupadors indies</em>“, i es venien unicament a petits certamens conegut com Comiket(<em>Comic Market</em>).</p>
+<p>De Visual Novels les mes conegudes del genere son: <strong>Tsukihime</strong>, <strong>Fate/Stay Night</strong>, desenvolupades per <strong>Type-Moon</strong>. <strong>Air</strong>, <strong>Kanon</strong>, <strong>Clannad</strong>, <strong>Little Busters</strong>, desenvolupades per la companya <strong>Key</strong>. També tenim <strong>Togainu no Chi</strong>, <strong>Saya no Uta</strong>(<em>Magnifica VN guionitzada per Urobuchi Gen</em>), <strong>Steins;Gate</strong> de la companyia <strong>NitroPlus</strong>, o les VN creades per <strong>07th Expansion</strong>, amb la seva saga “<em>When They Cry</em>“, <strong>Higurashi no naku koro ni</strong>, i <strong>Umineko no naku koro ni</strong>.</p>
+<h3 id="Punts-forts-i-febles-de-les-histories-de-multiples-camins"><a href="#Punts-forts-i-febles-de-les-histories-de-multiples-camins" class="headerlink" title="Punts forts i febles de les histories de multiples camins"></a>Punts forts i febles de les histories de multiples camins</h3><p>Com ja he comentat <strong>el punt principal de les histories de multiples camins recau en la possibilitat de que el usuari final esculli la direcció de la historia</strong>. Pero aixo mateix fa la historia dificil de estructurar perque s’han de pensar multiples rutes i esdeveniments. Aixi com el fet de que hi haurá rutes les cuals mai serán jugades per molt de que el jugador re-jugui el joc.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Cap &lt;strong&gt;a final dels anys 70 van començar a comercialitzarse una serie de llibres diferents&lt;/strong&gt; dels que s’havien comercialitzat fins aquell moment, &lt;strong&gt;eren llibres “Choose your own path”, escull la teva propia historia&lt;/strong&gt;. Aquests llibres van tenir una repercusió butal, perque era una historia diferent era una historia la cual tu(el lector) escollies com la volies, podent decidir les accions del personatge principal de la historia i sentinte part d’ella amb les eleccions.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Practiques" scheme="https://kurobyte.github.io/categories/Practiques/"/>
+    
+    
+      <category term="VN" scheme="https://kurobyte.github.io/tags/VN/"/>
+    
+      <category term="Visual Novel" scheme="https://kurobyte.github.io/tags/Visual-Novel/"/>
+    
+      <category term="Choose your own path books" scheme="https://kurobyte.github.io/tags/Choose-your-own-path-books/"/>
+    
+      <category term="Camins" scheme="https://kurobyte.github.io/tags/Camins/"/>
+    
+  </entry>
   
   <entry>
     <title>[Practica] Escriure per Videojocs: RPG</title>
