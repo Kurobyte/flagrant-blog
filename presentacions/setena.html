@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>reveal-md</title>
+        <link rel="stylesheet" href="css/reveal.css">
+        <link rel="stylesheet" href="css/theme/black.css" id="theme">
+        <!-- For syntax highlighting -->
+        <link rel="stylesheet" href="lib/css/zenburn.css">
+
+        <!-- If the query includes 'print-pdf', use the PDF print sheet -->
+        <script>
+          document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+        </script>
+    </head>
+    <body>
+
+        <div class="reveal">
+            <div class="slides"><section  data-markdown><script type="text/template">
+# Educació i Vídeojocs #
+Presentació realitzada per **Ivan M.**
+</script></section><section ><section data-markdown><script type="text/template">
+## La Gamificació estructural ##
+La gamificació estructural be a ser el fet de gamificar la estructura per fer que els usuaris es vegin incitats pero sense arribar al punt de convertirlo en un joc.
+</script></section><section data-markdown><script type="text/template">
+<!-- .slide: data-background="./img/6/EmailGame.png" --></script></section></section><section  data-markdown><script type="text/template">
+## La Gamificació del contingut ##
+A diferencia de la estructural aquesta es basa en aplicar elements de joc en el contingut pero igualment sense convertirlo en joc.
+</script></section><section ><section data-markdown><script type="text/template">
+## Tipus de jocs ##
+* Narrativa multilineal o hipertextual
+* Hipotext literari
+* Experiencia-pòetics, filosofics o jocs indies
+</script></section><section data-markdown><script type="text/template">
+<!-- .slide: data-background="./img/7/tsukihime.jpg" -->
+### Narrativa multilineal o hipertextual ###</script></section><section data-markdown><script type="text/template">
+<!-- .slide: data-background="./img/7/seasons_of_heaven-1.jpg" -->
+### Hipotext literari ###</script></section><section data-markdown><script type="text/template">
+<!-- .slide: data-background="./img/7/prune.jpg" -->
+### Experiencia-pòetics, filosofics o jocs indies ###</script></section></section><section  data-markdown><script type="text/template">
+</script></section></div>
+        </div>
+
+        <script src="lib/js/head.min.js"></script>
+        <script src="js/reveal.js"></script>
+
+        <script>
+            function extend() {
+              var target = {};
+              for (var i = 0; i < arguments.length; i++) {
+                var source = arguments[i];
+                for (var key in source) {
+                  if (source.hasOwnProperty(key)) {
+                    target[key] = source[key];
+                  }
+                }
+              }
+              return target;
+            }
+
+            // Optional libraries used to extend on reveal.js
+            var deps = [
+              { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+              { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+              { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+              { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+              { src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+              { src: 'plugin/math/math.js', async: true }
+            ];
+
+            // default options to init reveal.js
+            var defaultOptions = {
+              controls: true,
+              progress: true,
+              history: true,
+              center: true,
+              transition: 'default',
+              dependencies: deps
+            };
+
+            // options from URL query string
+            var queryOptions = Reveal.getQueryHash() || {};
+
+            var options = {
+  "controls": false,
+  "progress": true,
+  "transition": "fade",
+  "backgroundTransition": "fade",
+  "parallaxBackgroundImage": "sea.jpg",
+  "parallaxBackgroundSize": "2100px 900px",
+  "parallaxBackgroundHorizontal": 200,
+  "parallaxBackgroundVertical": 50
+};
+            options = extend(defaultOptions, options, queryOptions);
+            Reveal.initialize(options);
+        </script>
+        
+          <script src="/scripts/segona"></script>
+    </body>
+</html>
+
